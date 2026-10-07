@@ -1,0 +1,6 @@
+{
+  "name": "EduPredict AI",
+  "description": "AI-Powered Student Attendance & Performance Predictor for educational institutions. Predict. Prevent. Empower.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
